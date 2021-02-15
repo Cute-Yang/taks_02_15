@@ -9,3 +9,7 @@ pase_json.ipynb:解析config.json，但是里面的数据和csv file 数据有�
 
 show.ipynb:显示数据，定义了根据一组university和major 显示数据的方法，也定义按照要求显示所有定义的方法
 
+#### environment
++ Os:Linux/Windows/Mac
++ Python version:python3
++ deps:requirements.txt
