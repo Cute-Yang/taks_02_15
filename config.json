@@ -1,0 +1,562 @@
+{
+	"Tufts | MSCS": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemscs.tufts.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tufts.csv",
+		"name": "Tufts University",
+		"program": "Master of Science in Computer Science"
+	},
+	"Tufts | MSDS": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemscs.tufts.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tufts_msds.csv",
+		"name": "Tufts University",
+		"program": "Master of Science in Data Science"
+	},
+	"Tufts | Post Bach": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemscs.tufts.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tufts_post_bach.csv",
+		"name": "Tufts University",
+		"program": "Post-Baccalaureate in Computer Science"
+	},
+	"Pitt | MSHI": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlineshrs.pitt.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_pitt-mshi.csv",
+		"name": "University of Pittsburgh",
+		"program": "Online MSHI"
+	},
+	"Pitt | CScD OT": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlineshrs.pitt.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_pitt-cscd.csv",
+		"name": "University of Pittsburgh",
+		"program": "Doctor of Clinical Science (CScD) in Occupational Therapy"
+	},
+	"U Mich | Nursing": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.nursing.umich.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_umich.csv",
+		"name": "University of Michigan",
+		"program": "Master of Science in Nursing in Leadership, Analytics and Innovation"
+	},
+	"Tulsa | Cybersecurity": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.cybersecurityonline.utulsa.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tok-cyber.csv",
+		"name": "University of Tulsa",
+		"program": "Master of Science in Cybersecurity"
+	},
+	"Tulsa | MBA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.mbaonline.utulsa.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tok-mba.csv",
+		"name": "University of Tulsa",
+		"program": "Online Masters in Business Administration (PT MBA)"
+	},
+	"UW | iSchool MSIM": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_uw.csv",
+		"name": "University of Washington",
+		"program": "Master of Science in Information Management"
+	},
+	"Howard | EMBA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemba.howard.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_how-emba.csv",
+		"name": "Howard University",
+		"program": "Online Executive MBA"
+	},
+	"Howard | OMBA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemba.howard.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_how-omba.csv",
+		"name": "Howard University",
+		"program": "Online Part-time MBA"
+	},
+	"UT | EMBA-GSC": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.supplychainmanagement.utk.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_ut-emba.csv",
+		"name": "University of Tennessee, Knoxville",
+		"program": "Executive MBA for Global Supply Chain"
+	},
+	"UT | Integrated Supply Chain": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http, haslam.utk.edu"
+		},
+		"blacklist_platforms": "info.supplychainmanagement.utk.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_ut-gsc.csv",
+		"name": "University of Tennessee, Knoxville",
+		"program": "Integrated Supply Chain - Online"
+	},
+	"UVA | Data Science": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "onlinedatascience.virginia.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_uva.csv",
+		"name": "University of Virginia",
+		"program": "Data Science - Online"
+	},
+	"SMU | MBA Direct": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_smu-mbadirect.csv",
+		"name": "Southern Methodist University",
+		"program": "MBA Direct"
+	},
+	"SMU | OMBA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemba.smu.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_smu-omba.csv",
+		"name": "Southern Methodist University",
+		"program": "Online MBA"
+	},
+	"SMU Lyle | MSCS-AI": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemba.smu.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_smu-mscs-ai.csv",
+		"name": "Southern Methodist University",
+		"program": "MS in Computer Science with AI Specialization"
+	},
+	"SMU Lyle | MSNE": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemba.smu.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_smu-msne.csv",
+		"name": "Southern Methodist University",
+		"program": "MS in Network Engineering"
+	},
+	"NYU Wagner | MHA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.onlinemha.wagner.nyu.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_nyu-wagner.csv",
+		"name": "NYU",
+		"program": "Online MHA"
+	},
+	"Stevens | MSCS": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.online.stevens.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_stevens-mscs.csv",
+		"name": "Stevens Institute of Technology",
+		"program": "MS in Computer Science"
+	},
+	"Stevens | MSDS": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "info.online.stevens.edu",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_stevens-msds.csv",
+		"name": "Stevens Institute of Technology",
+		"program": "MS in Data Science"
+	},
+	"Mills | MEd": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_mills.csv",
+		"name": "Mills College",
+		"program": "Education - Educational Leadership (Online)"
+	},
+	"Case Western | MBA": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_case_western_mba.csv",
+		"name": "Case Western Reserve University",
+		"program": "Master of Business Administration"
+	},
+	"Case Western | MSCS": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_case_western_mscs.csv",
+		"name": "Case Western Reserve University",
+		"program": "Master of Science in Computer Science"
+	},
+	"Tulane | DSW Online": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tulane-dsw.csv",
+		"name": "Tulane",
+		"program": "Online Doctorate in Social Work"
+	},
+	"Tulane | MSW Online": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tulane-msw.csv",
+		"name": "Tulane",
+		"program": "Online MSW"
+	},
+	"Tulane | MPH Online": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tulane-mph.csv",
+		"name": "Tulane",
+		"program": "Online Master of Public Health (MPH)"
+	},
+	"Tulane | MHA Online": 
+	{
+		"platforms": 
+		{
+			"google": "google, bing",
+			"facebook": "facebook",
+			"linkedin": "linkedin",
+			"affiliate": "higher_ed, _he_, -he_",
+			"seo": "Direct Apply, microsite, http"
+		},
+		"blacklist_platforms": "",
+		"reporting_columns": 
+		{
+			"Lead": "Prospects",
+			"App Start": "Started App"
+		},
+		"data_file": "Prospect_Perfromance_by_Source_data_tulane-mha.csv",
+		"name": "Tulane",
+		"program": "On-Campus Master of Health Administration (MHA)"
+	}
+}
